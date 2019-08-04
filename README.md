@@ -2,12 +2,7 @@
 Not a soul can go in.
 *(Please Read Whole Page, All Things Are Important Then If You Want You Can Use IT.)*
 
-# This is it!
-There will be no other version of this PR, This is the only and one and the best that you can find for free where you can see/do/change anything on your will and not some encrypted piece of code! This is pure open source code as you can open any file and read anything, This script automatically compiles nginx from source with lots of modules helpful but mostly who play a big role in L7 Anti-DDoS, including the L7 nginx module which you can configure as simple as https://github.com/aaronliruns/pearlplaza/issues/10#issuecomment-442579528 more then that consider a [Donate](https://github.com/aaronliruns/pearlplaza/blob/master/.github/FUNDING.yml) and you can contact me for further support!
-
-Summer is here, after that i may be working and i don't see having much of free time to play with nginx!
-
-# To-Do
+# Feature list 
 
 - [x] Nginx Version, Always Latest.
 - [x] Support Ubuntu Trusty. (14.04)
